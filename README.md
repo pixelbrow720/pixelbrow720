@@ -1,11 +1,9 @@
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
   
   <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="30"/> 
-    Welcome to pixelbrow720's Digital Realm 
-    <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="30"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
+    Welcome to pixelbrow720's GitHub
   </h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9FD1&center=true&vCenter=true&width=500&lines=AI+Security+Researcher+%7C+Python+Developer;Hunting+LLM+Vulnerabilities;Breaking+AI+Systems+Ethically;Autodidact+and+Digital+Explorer" alt="Typing SVG" />
@@ -24,52 +22,52 @@
 
 <br>
 
-## 🧠 <span style="color:#ff5733">The Mind Behind The Screen</span>
+## 🧠 <span style="color:#ff5733">About Me</span>
 
-<img align="right" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJoMWlvdGVjbGloeW1xMDk0YnpsMWluaWd5ZHZzb21hbHl0NHB5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm **pixelbrow720**, a self-taught developer and security enthusiast walking the fine line between building AI systems and breaking them. My journey is powered by curiosity and sustained by challenges.
+I'm **pixelbrow720**, a self-taught developer and security enthusiast specializing in AI security and Python development. My expertise lies at the intersection of building AI systems and identifying their vulnerabilities.
 
-What sets me apart:
-- 🔍 Specializing in **adversarial attacks on Large Language Models**
+What I focus on:
+- 🔍 Researching **adversarial attacks on Large Language Models**
 - 🛡️ Developing techniques to identify and exploit AI vulnerabilities
-- 🐍 Crafting elegant solutions with Python
-- 🚀 Continuously pushing the boundaries of what's possible
-- 🌱 Growing through self-education and hands-on experimentation
+- 🐍 Building security tools with Python
+- 🚀 Pushing the boundaries of AI red teaming
+- 🌱 Continuously expanding my knowledge through self-education
 
-My mantra is simple yet profound:
+My guiding principle:
 
 > <span style="font-family: 'Georgia', serif; font-size: 18px; font-style: italic;">"Only a disciplined ones are free in life"</span>
 
 <br>
 
-## 🎯 <span style="color:#33a8ff">Mission Objectives</span>
+## 🎯 <span style="color:#33a8ff">Current Focus & Goals</span>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100%"/>
+        <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100%"/>
         <br>
-        <b>Current Operations</b>
+        <b>Current Projects</b>
       </td>
       <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" width="100%"/>
+        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%"/>
         <br>
-        <b>Strategic Goals</b>
+        <b>Career Goals</b>
       </td>
     </tr>
   </table>
 </div>
 
-### 🔴 Active Missions:
+### 🔴 Active Projects:
 - 🔬 **AI Vulnerability Research** - Identifying and documenting attack vectors in state-of-the-art LLMs
 - 🕸️ **Security Scanner Development** - Creating next-gen tools for identifying weaknesses in AI systems
 - 🥷 **Red Team Methodologies** - Developing frameworks for thorough AI security assessments
 - 🔄 **Prompt Injection Techniques** - Exploring sophisticated ways to manipulate AI behavior
 - 🦠 **Data Poisoning Research** - Understanding how training data vulnerabilities affect models
 
-### 🚀 Long-Term Campaign:
+### 🚀 Career Aspirations:
 - Join elite AI safety research teams (dream: becoming an AI Red Team Researcher at Anthropic!)
 - Contribute to establishing industry standards for AI security
 - Build a reputation as a thought leader in the AI security space
@@ -77,7 +75,7 @@ My mantra is simple yet profound:
 
 <br>
 
-## 🔧 <span style="color:#33ff57">Arsenal & Capabilities</span>
+## 🔧 <span style="color:#33ff57">Technical Skills</span>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,flask,fastapi,linux,vscode,git,docker,bash,mongodb" />
@@ -85,7 +83,7 @@ My mantra is simple yet profound:
 
 <br>
 
-### 🛠️ Primary Weapons
+### 🛠️ Technologies & Tools
 ```python
 skills = {
     "Languages": ["Python", "SQL", "Bash", "HTML/CSS", "JavaScript"],
@@ -97,7 +95,7 @@ skills = {
 }
 ```
 
-### 🧩 Special Abilities
+### 🧩 Core Competencies
 - **Adversarial Thinking**: Identifying unconventional attack vectors
 - **Rapid Prototyping**: Quickly building proof-of-concepts
 - **Self-Learning**: Mastering new technologies independently
@@ -106,30 +104,30 @@ skills = {
 
 <br>
 
-## 🏆 <span style="color:#ffcc33">Field Operations & Accomplishments</span>
+## 🏆 <span style="color:#ffcc33">Projects & Research</span>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="400" />
 </div>
 
-### 🚀 Major Projects
+### 🚀 Key Projects
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3o7bug2wkVs0vNmUqQ/giphy.gif" width="100" height="100" />
+      <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="100" height="100" />
       <br />
       <h3>LLM Vulnerability Scanner</h3>
       <p>Automated tool that probes LLMs for security weaknesses across multiple vectors, including prompt injection, data extraction, and jailbreaking techniques.</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="100" height="100" />
+      <img src="https://media.giphy.com/media/l3vQXZiBgBSfS9hQs/giphy.gif" width="100" height="100" />
       <br />
       <h3>Adversarial Attack Framework</h3>
       <p>Framework for developing, testing, and documenting novel attacks against commercial and open-source language models.</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="100" height="100" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJwemhiazR1ZmkzZDQ2anMya3Q0bWEzZjJtNWZlOXBla3BnZms0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100" height="100" />
       <br />
       <h3>AI Defender's Toolkit</h3>
       <p>Collection of defensive measures and best practices to harden AI systems against the very attacks I specialize in creating.</p>
@@ -137,20 +135,20 @@ skills = {
   </tr>
 </table>
 
-### ⏳ Upcoming Operations
+### ⏳ Upcoming Initiatives
 - Comprehensive benchmark for evaluating LLM security robustness
 - AI red team methodologies documentation
 - Open-source security scanning and fuzzing tools
 
 <br>
 
-## 🎓 <span style="color:#cc33ff">The Autodidact's Journey</span>
+## 🎓 <span style="color:#cc33ff">Self-Learning Journey</span>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
 </div>
 
-### 📚 Learning Path
+### 📚 Education Approach
 Though my formal education ended with high school, my real education never stops:
 
 - 🌐 **Self-directed learning** through online courses, documentation, and research papers
@@ -159,7 +157,7 @@ Though my formal education ended with high school, my real education never stops
 - 👥 **Community engagement** with fellow security researchers and developers
 - 📖 **Continuous consumption** of books, articles, and conference talks
 
-### 📈 Growth Mindset
+### 📈 Growth Philosophy
 I believe that skills are built, not born. Every day is an opportunity to:
 - Learn something new
 - Refine existing skills
@@ -169,7 +167,7 @@ I believe that skills are built, not born. Every day is an opportunity to:
 
 <br>
 
-## 💬 <span style="color:#ff33cc">Transmission Frequencies</span>
+## 💬 <span style="color:#ff33cc">Connect With Me</span>
 
 <div align="center">
   <a href="https://github.com/pixelbrow720" target="_blank">
@@ -188,58 +186,49 @@ I believe that skills are built, not born. Every day is an opportunity to:
 
 <br>
 
-## 📊 <span style="color:#33ccff">Intelligence Analytics</span>
+## 📊 <span style="color:#33ccff">GitHub Stats</span>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelbrow720&show_icons=true&theme=radical&border_radius=10&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pixelbrow720&theme=radical&border_radius=10&background=0D1117" height="192px" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pixelbrow720&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=3795DD&icon_color=3795DD" height="192px" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pixelbrow720&theme=tokyonight&border_radius=10&background=0D1117" height="192px" alt="GitHub Streak" />
 </div>
 
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pixelbrow720&theme=radical&column=7&margin-w=10&margin-h=10" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pixelbrow720&theme=nord&column=7&margin-w=10&margin-h=10" alt="trophy" />
 </div>
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelbrow720&layout=compact&theme=radical&border_radius=10&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelbrow720&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=3795DD" alt="Top Languages" />
 </div>
 
 <br>
 
-## 🎮 <span style="color:#ff5733">Downtime Activities</span>
+## 🎮 <span style="color:#ff5733">Outside of Coding</span>
 
 When I'm not hunting vulnerabilities or coding, you can find me:
 
 - 📚 Keeping up with the latest AI research papers
 - 🔎 Exploring cutting-edge LLM developments
 - 🌐 Contributing to open-source security projects
-- 🎮 Testing security in video games
+- 🧠 Studying AI safety considerations
 - 🎵 Coding with lo-fi beats in the background
 
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
   
-  <h2>
-    "The only way to do great work is to love what you do." - Steve Jobs
-  </h2>
+  <h3>
+    "The intersection of curiosity and discipline is where innovation happens."
+  </h3>
   
-  <h3>Thanks for visiting my digital headquarters! Let's connect and make the digital world safer together.</h3>
+  <h4>Thanks for visiting my profile! Let's connect and make AI systems more secure together.</h4>
   
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <!--
 Fun fact: This README was crafted with both creativity and security in mind. No vulnerabilities were exploited in its making! 😉
 -->
-
-This README strikes a balance between professional and personal elements, highlighting your expertise in AI security and Python development while showing your ambition to work in AI red team research.
-
-To use this README:
-1. Create a repository with the same name as your GitHub username (pixelbrow720/pixelbrow720)
-2. Add this content to the README.md file in that repository
-3. The stats and badges will automatically update with your GitHub activity
-
-Let me know if you'd like any adjustments to make it even better!
